@@ -1,0 +1,29 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right,purple,blue);
+    overflow: hidden;
+}
+.contact-us-div{
+    width: 90vw;
+    height: 90vh;
+    margin: 5vh 5vw;
+    border: 3px solid black;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: blue;
+    color: white;
+}
+*{
+	font-family: Ubuntu;
+    box-sizing: border-box;
+}
+a{
+    color: white;
+}
+.contact-us-div *{
+    display: block;
+    text-align: center;
+}
