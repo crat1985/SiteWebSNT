@@ -25,3 +25,10 @@ a{
 	left: 0;
 	padding: 10px;
 }
+img{
+	border-radius: 20px;
+}
+.img-container{
+	display: block;
+	margin: 0 auto;
+}
