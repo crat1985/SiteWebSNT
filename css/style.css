@@ -30,10 +30,14 @@ img{
 	margin: 2px;
 	transition: .25s ease;
 }
-.img-container{
-	display: block;
-	margin: 0 auto;
-}
 img:hover{
 	width: 220px;
+}
+.nature, .city{
+	border: 2px solid white;
+	border-radius: 10px;
+	margin: 10px;
+	padding: 10px;
+	text-decoration: underline;
+	text-align: center;
 }
