@@ -6,7 +6,7 @@ body{
     background: linear-gradient(to right,purple,blue);
     overflow: hidden;
 }
-.contact-us-div{
+.about-us-div{
     width: 90vw;
     height: 90vh;
     margin: 5vh 5vw;
@@ -15,6 +15,7 @@ body{
     border-radius: 25px;
     background-color: blue;
     color: white;
+    text-align: center;
 }
 *{
 	font-family: Ubuntu;
@@ -23,7 +24,6 @@ body{
 a{
     color: white;
 }
-.contact-us-div *{
+.about-us-div *{
     display: block;
-    text-align: center;
 }
