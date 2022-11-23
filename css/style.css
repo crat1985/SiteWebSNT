@@ -1,3 +1,27 @@
 *{
 	font-family: Ubuntu;
+	box-sizing: border-box;
+}
+body{
+	background-color: black;
+	color: white;
+	margin: 0;
+}
+a{
+	color: blue;
+}
+.maindiv{
+	width: 90vw;
+	height: 90vh;
+	border: 2px solid white;
+	border-radius: 20px;
+	padding: 10px;
+	margin: 5vh 5vw;
+	position: relative;
+}
+.link{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	padding: 10px;
 }

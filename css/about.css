@@ -16,14 +16,16 @@ body{
     background-color: blue;
     color: white;
     text-align: center;
+    position: relative;
 }
 *{
 	font-family: Ubuntu;
     box-sizing: border-box;
 }
-a{
+.link{
     color: white;
-}
-.about-us-div *{
-    display: block;
+    background-color: black;
+    border-radius: 25px;
+    padding: 10px;
+    text-decoration: none;
 }
