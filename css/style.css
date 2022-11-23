@@ -12,12 +12,13 @@ a{
 }
 .maindiv{
 	width: 90vw;
-	height: 90vh;
+	min-height: 90vh;
 	border: 2px solid white;
 	border-radius: 20px;
 	padding: 10px;
 	margin: 5vh 5vw;
 	position: relative;
+	padding-bottom: 30px;
 }
 .link{
 	position: absolute;
@@ -33,7 +34,7 @@ img{
 img:hover{
 	width: 220px;
 }
-.nature, .city{
+.category{
 	border: 2px solid white;
 	border-radius: 10px;
 	margin: 10px;
