@@ -27,8 +27,13 @@ a{
 }
 img{
 	border-radius: 20px;
+	margin: 2px;
+	transition: .25s ease;
 }
 .img-container{
 	display: block;
 	margin: 0 auto;
+}
+img:hover{
+	width: 220px;
 }
