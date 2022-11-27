@@ -28,11 +28,12 @@ a{
 }
 img{
 	border-radius: 20px;
-	margin: 2px;
+	margin: 10px;
 	transition: .25s ease;
 }
 img:hover{
 	width: 220px;
+	margin: 0
 }
 .category{
 	border: 2px solid white;
@@ -43,4 +44,5 @@ img:hover{
 }
 p{
 	text-decoration: underline;
+	font-weight: bold;
 }
