@@ -28,7 +28,7 @@ a{
 }
 img{
 	border-radius: 20px;
-	margin: 10px;
+	margin: 7px 10px;
 	transition: .25s ease;
 }
 img:hover{
