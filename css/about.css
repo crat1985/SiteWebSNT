@@ -49,3 +49,14 @@ p:hover, h1:hover, h2:hover, li:hover, a:hover{
 p, h1, h2, li, a{
     transition: .25s ease;
 }
+.ambitions{
+    text-align: left;
+    width: max-content;
+    margin: 0 auto;
+}
+.github_link{
+    color: black;
+}
+.p_ambitions{
+    margin: 0;
+}
