@@ -35,3 +35,14 @@ body{
 .link:hover{
     font-size: 1.1rem;
 }
+.authors{
+    text-align: left;
+    width: max-content;
+    margin: 0 auto;
+}
+::selection{
+	background-color: purple;
+}
+p:hover, h1:hover, h2:hover, li:hover, a:hover{
+    color: black;
+}
