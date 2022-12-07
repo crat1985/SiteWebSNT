@@ -23,9 +23,15 @@ body{
     box-sizing: border-box;
 }
 .link{
+    position: absolute fixed;
+    margin: 0 auto;
     color: white;
     background-color: black;
     border-radius: 25px;
     padding: 10px;
     text-decoration: none;
+    transition: .25s ease;
+}
+.link:hover{
+    font-size: 1.1rem;
 }
