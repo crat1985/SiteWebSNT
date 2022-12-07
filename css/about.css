@@ -3,7 +3,7 @@ body{
     height: 100vh;
     margin: 0;
     padding: 0;
-    background: linear-gradient(to right,purple,blue);
+    background: black;
     overflow: hidden;
 }
 .about-us-div{
@@ -13,7 +13,7 @@ body{
     border: 3px solid black;
     padding: 10px;
     border-radius: 25px;
-    background-color: blue;
+    background: linear-gradient(to right,purple,blue);
     color: white;
     text-align: center;
     position: relative;
