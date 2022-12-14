@@ -45,6 +45,3 @@ h2{
 	text-decoration: underline;
 	font-weight: bold;
 }
-::selection{
-	background-color: purple;
-}
