@@ -49,3 +49,6 @@ h2{
 ul.images_list{
 	list-style-type: none;
 }
+img{
+	width: 200px;
+}
