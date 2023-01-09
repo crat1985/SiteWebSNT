@@ -2,7 +2,7 @@
 	background-color: purple;
 }
 p:hover, h1:hover, h2:hover, h3:hover, li:hover, a:hover{
-    color: gray;
+    color: darkblue;
 }
 p, h1, h2, h3, li, a{
     transition: .25s ease;
