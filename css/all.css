@@ -1,5 +1,6 @@
 ::selection{
-	background-color: purple;
+	color: lightblue;
+    outline-color: lightblue;
 }
 p:hover, h1:hover, h2:hover, h3:hover, li:hover, a:hover{
     color: darkblue;
