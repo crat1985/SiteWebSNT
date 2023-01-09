@@ -7,6 +7,6 @@ p:hover, h1:hover, h2:hover, h3:hover, li:hover, a:hover{
 p, h1, h2, h3, li, a{
     transition: .25s ease;
 }
-/* a:hover{
-    cursor: crosshair;
-} */
+body {
+    font-size: 1rem;
+}
