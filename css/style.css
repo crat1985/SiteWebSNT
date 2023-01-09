@@ -46,3 +46,6 @@ h2{
 	text-decoration: underline;
 	font-weight: bold;
 }
+ul.images_list{
+	list-style-type: none;
+}
