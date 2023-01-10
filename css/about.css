@@ -24,18 +24,14 @@ body{
     box-sizing: border-box;
 }
 .link{
-    position: absolute fixed;
+    position: relative fixed;
     margin: 0 auto;
-    color: white;
-    background-color: black;
-    border-radius: 25px;
-    padding: 10px;
+    /* padding: 10px; */
     text-decoration: none;
     transition: .25s ease;
+    height: fit-content;
 }
-.link:hover{
-    font-size: 1.1rem;
-}
+
 .authors{
     text-align: left;
     width: max-content;
@@ -57,4 +53,18 @@ h3{
 }
 img{
     border-radius: 15px;
+}
+.button_link{
+    background-color: black;
+    border: none;
+    color: white;
+    border-radius: 25px;
+    text-decoration: none;
+    transition: .25s ease;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.button_link:hover{
+    scale: 1.1;
 }
