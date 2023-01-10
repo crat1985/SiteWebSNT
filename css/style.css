@@ -13,7 +13,7 @@ a{
 }
 .maindiv{
 	width: 90vw;
-	min-height: 90vh;
+	min-height: auto;
 	border: 2px solid blue;
 	border-radius: 15px;
 	padding: 10px;
