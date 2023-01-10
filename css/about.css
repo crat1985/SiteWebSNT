@@ -55,6 +55,7 @@ img{
     border-radius: 15px;
 }
 .button_link{
+    font-size: 1.1rem;
     background-color: black;
     border: none;
     color: white;
